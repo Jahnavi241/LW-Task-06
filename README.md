@@ -1,1 +1,1 @@
-# LW-Task-06
+# Face-Recognition-using-LBPH
